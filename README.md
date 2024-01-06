@@ -3,7 +3,7 @@ Command line interface to play Lichess using only standard chess notation.
 Make sure to create an API key at lichess.org and input it into the code where it says API_KEY_HERE
 
 TODO:
-Add functionality to resume games
+Add functionality to resume games<br />
 Not able to start play using black. Program wait's for user to input first move.
 
 
