@@ -1,14 +1,12 @@
-Command line interface to play Lichess using only standard chess notation.
+SUMMARY: Command line interface to play Lichess using only standard chess notation.
 
-Make sure to create an API key at lichess.org and input it into the code where it says API_KEY_HERE
+NOTE: Make sure to create an API key at lichess.org and input it into the code where it says API_KEY_HERE
 
 TODO:<br />
 Add functionality to resume games<br />
 Not able to start play using black. Program wait's for user to input first move.
 
-
-Sample game output:
-
+SAMPLE OUTPUT:<br />
 Enter Stockfish difficulty level (1-8): 1<br />
 Do you want to play as white or black? white<br />
 You are playing as white<br />
